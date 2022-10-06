@@ -18,6 +18,7 @@ function App() {
                     <option>activo</option>
                     <option>pasivo</option>
                 </select>
+                <br />
                 <button>Ingresar</button>
             </header>
         </div>
